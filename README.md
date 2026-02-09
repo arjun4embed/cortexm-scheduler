@@ -97,3 +97,7 @@ Terminated tasks are skipped by the scheduler.
 - BLOCKED state  
 - Tick-based delay  
 - Priority scheduling  
+
+---
+## Sequence Diagram 
+![Alt text](cortexm-kernel/docs/roundrobin_sched_v1_sequence_diagram.png)
